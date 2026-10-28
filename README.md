@@ -46,7 +46,7 @@ I therefore built this system to explore how AI can automate the language-intens
 
 A recorded end-to-end demonstration of the working MVP is available with the `v0.1.0` release.
 
-▶️ [https://github.com/anhphha/ai-job-application-tracker/releases/download/v0.1.0/working_MVP.mp4](**Watch the Working MVP Demo**)
+▶️ [**Watch the Working MVP Demo**](https://github.com/anhphha/ai-job-application-tracker/releases/download/v0.1.0/working_MVP.mp4)
 
 The demo shows the complete human-in-the-loop workflow:
 
