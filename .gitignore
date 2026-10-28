@@ -1,0 +1,48 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+job_tracker.db
+tests/job_tracker.db
+data/jobs.db
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyc
+
+# Testing
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Virtual environments
+.venv/
+venv/
+env/
+.agents/
+.claude/
+
+# IDE
+.vscode/
+.idea/
+
+# macOS
+.DS_Store
+
+# Logs
+*.log
+
+# Streamlit secrets
+.streamlit/secrets.toml
