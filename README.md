@@ -44,9 +44,22 @@ I therefore built this system to explore how AI can automate the language-intens
 
 ## Demo
 
-A recorded end-to-end demonstration of the working MVP is available separately.
+A recorded end-to-end demonstration of the working MVP is available with the `v0.1.0` release.
 
-The demo covers job analysis, AI assessment, deterministic scoring, human review, approval, persistence, and evaluation monitoring.
+▶️ [https://github.com/anhphha/ai-job-application-tracker/releases/download/v0.1.0/working_MVP.mp4](**Watch the Working MVP Demo**)
+
+The demo shows the complete human-in-the-loop workflow:
+
+1. submitting a job description
+2. AI-powered structured extraction
+3. evidence-based career assessment
+4. deterministic scoring
+5. confidence and missing-information review
+6. human override and score recalculation
+7. approval and persistence
+8. saved-job review and evaluation monitoring
+
+The demo is intended to show not only the AI output, but also the controls around it: validation, human judgment, traceability, and persistence.
 
 ## System Architecture
 
