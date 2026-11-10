@@ -1,81 +1,42 @@
+import sys
+from pathlib import Path
 import os
 import json
-
 from dotenv import load_dotenv
 from openai import OpenAI
 
+sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from models import JobExtraction, JobAssessment
-from criteria import CAREER_CRITERIA
+from criteria_v2_1 import CAREER_CRITERIA
 
-load_dotenv()  # Load environment variables from .env file
+load_dotenv()
 
 client = OpenAI(api_key=os.getenv("OPENAI_API_KEY"))
 
-ASSESSMENT_PROMPT_VERSION = "1.0"
+ASSESSMENT_PROMPT_VERSION = "1.2-candidate"
 MODEL_NAME = "gpt-5.6"
+PROMPT_FILE = Path(__file__).resolve().parent / "prompts" / "assessment.txt"
 
 def assess_job(job_description: str, job_extraction: JobExtraction) -> JobAssessment:
-    criteria_text = json.dumps(
-        CAREER_CRITERIA,
-        indent=2
-    )
 
-    extracted_job_text = job_extraction.model_dump_json(
-        indent=2
-    )
+    template = PROMPT_FILE.read_text(encoding="utf-8")
+    required = ("{{CRITERIA}}", "{{EXTRACTION}}", "{{JOB_DESCRIPTION}}")
 
-    prompt = f"""
-    You are evaluating a job against predefined career criteria.
+    if any(template.count(token) != 1 for token in required):
+        raise ValueError("Assessment prompt template must contain each placeholder exactly once")
 
-    Your task is NOT to decide whether the candidate should accept
-    the job.
-
-    Your task is to evaluate the evidence in the job description
-    against each career criterion.
-
-    SCORING RULES:
-
-    0 = No meaningful evidence
-    1 = Some evidence
-    2 = Strong evidence
-
-    For every criterion:
-
-    1. Give a score from 0 to 2.
-    2. Explain the evidence supporting the score.
-    3. Give confidence from 0 to 1.
-
-    IMPORTANT RULES:
-
-    - Only use evidence supported by the job description.
-    - Do not invent responsibilities.
-    - Do not assume missing information.
-    - Distinguish current responsibilities from future opportunities.
-    - If information is unclear or missing, lower the confidence.
-    - Add important unknown information to missing_information.
-
-    CAREER CRITERIA:
-
-    {criteria_text}
-
-    STRUCTURED JOB INFORMATION:
-
-    {extracted_job_text}
-
-    ORIGINAL JOB DESCRIPTION:
-
-    {job_description}
-    """
+    prompt = (template
+        .replace("{{CRITERIA}}", json.dumps(CAREER_CRITERIA, indent=2, ensure_ascii=False))
+        .replace("{{EXTRACTION}}", job_extraction.model_dump_json(indent=2))
+        .replace("{{JOB_DESCRIPTION}}", job_description))
 
     response = client.responses.parse(
-        model = MODEL_NAME,
-        input=[
-            {
-                "role": "user",
-                "content": prompt
-            }
-        ],
-        text_format=JobAssessment
+        model=MODEL_NAME,
+        input=[{"role": "user", "content": prompt}],
+        text_format=JobAssessment,
     )
+
+    if response.output_parsed is None:
+        raise ValueError("Model returned no parsed JobAssessment")
 
     return response.output_parsed

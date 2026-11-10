@@ -1,0 +1,44 @@
+Are you a Data Engineer or Architect who likes taking an idea all the way to production, close to the business and without waiting for a finished spec? Are you equally at home with data pipelines, agentic AI solutions and enterprise IT? Then this role might be just right for you.
+
+Nortal is looking for a hands-on **Data & AI Engineer** to join our team and work at a large Finnish industrial sector company, strengthening the execution of their data and AI programme. You will sit inside the client's team and take prioritised business use cases from scoping to production, so that ideas reach production and start delivering value within weeks. You will work alongside the client's data, AI, platform and architecture specialists, and AI-assisted and agentic development (Claude Code or similar) is a core part of how the work is done.
+
+The role covers a lot of ground, from data pipelines to agentic AI and enterprise IT, and breadth is what makes it interesting. Your first assignments could include, for example, migrating business pipelines onto the data platform, transaction monitoring, and FinOps and AI usage reporting with Entra integrations and dashboards.
+
+**What You Will Do**
+
+- Take business use cases from scoping to production, working closely with business stakeholders and technical teams.
+- Design, build and productionise data pipelines and prepare data for downstream use.
+- Build agentic AI solutions on top of the data platform.
+- Work with the client's data, AI, platform and architecture experts to make solutions fit the wider enterprise environment.
+- Own both the design and the hands-on delivery, and keep things moving even when the full picture isn't clear yet.
+
+**What Will Help You To Succeed**
+
+- Strong data engineering skills: designing, building and productionising pipelines.
+- Experience with Databricks or a comparable platform, and the ability to pick it up quickly.
+- Solid data modelling skills.
+- Hands-on AI engineering experience with agentic solutions, such as LLM APIs, agent frameworks and orchestration, tool calling, RAG and MCP.
+- General enterprise IT understanding: networking, identity and access management (Entra), cloud (GCP or Azure), APIs and integrations, and security practices.
+- Taking ownership: you can make progress without a finished spec and communicate clearly with both business and technical people.
+- Good English skills. Finnish or Swedish is a plus.
+
+**Nice to have:** ML or data science, BI and dashboards, DataOps or MLOps, and integration platforms such as Frends.
+
+**Location** — worth being clear about: the role is on-site at the client's Helsinki office, with flexibility agreed case by case. The whole working model depends on being physically close to the business, so this isn't one that can be done fully remote.
+
+**Why join us?**
+
+- You'll work on real, high-impact data and AI projects with some of the leading companies in Finland. You get to work with business-critical systems and take real ownership of what you build.
+- We value individuals not just for their skills, but also for their cultural alignment. Our core values include a commitment to delivering value and results, taking ownership, empowering oneself and others, and owning your future and growth. In addition to our professionalism, we appreciate a touch of good humor!
+- We prioritize your growth and development. At Nortal, we actively support constant improvement and knowledge sharing through our Capability teams, both internal and external training opportunities, self-learning, a mentorship program, and strong 1:1 culture.
+- We prioritize your health and well-being by offering a flexible range of benefits, including adaptable working hours, access to high-quality occupational healthcare, massage services, and bicycle benefit.
+
+If you’re interested in learning more, please feel free to reach out to me for additional information:
+
+Virpi Kivinen
+
++358 40 6616 338
+
+virpi.kivinen(at)nortal.com
+
+Nortal values equality and diversity in our work community. We welcome applicants with different backgrounds, such as in regard to age, gender, culture or minority group.

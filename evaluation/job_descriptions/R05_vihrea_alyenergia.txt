@@ -1,0 +1,43 @@
+## About the job
+
+**Onko sinusta vastaamaan AI-ratkaisujemme kehittämisestä?**
+
+Vihreä Älyenergia on kansainvälistyvä softaenergiayhtiö, jonka asiakkaat ovat arvioineet Suomen parhaaksi sähköyhtiöksi riippumattomassa EPSI Rating -asiakastyytyväisyystutkimuksessa. Nyt etsimme tiimiimme koodaavaa AI- ja dataosaajaa rakentamaan älykkäämpiä energiapalveluita ja tukemaan kasvuamme.
+
+**AI Developer & Data Analyst**
+
+**Vihreä Älyenergia · Etätyö · Vakituinen · Täysipäiväinen**
+
+Tässä tehtävässä kehität energia-alan sovelluksia, tekoälyratkaisuja ja liiketoiminnan analytiikkaa. Viet ratkaisuja datan keruusta ja analyysistä toimiviksi ominaisuuksiksi ja työkaluiksi.
+
+Arvostamme erityisesti oma-aloitteisuutta ja kykyä työskennellä itsenäisesti. Tartut ongelmiin, selvität tarvittavat asiat ja viet työn maaliin. Osaat myös kysyä oikeat kysymykset ja pitää muut ajan tasalla.
+
+**Mitä työssäsi teet**
+
+- Kehität ja otat käyttöön tekoälyä ja dataa hyödyntäviä ratkaisuja.
+- Analysoit dataa ja tuotat havaintoja liiketoiminnan ja tuotteiden kehittämiseksi.
+- Rakennat Pythonilla työkaluja, integraatioita ja uusia toiminnallisuuksia.
+- Automatisoit toistuvia työvaiheita ja parannat nykyisiä työkaluja.
+- Autat tarvittaessa muun tiimin tukemana sovelluskehityksessä, ylläpidossa ja teknisten ongelmien ratkaisemisessa.
+
+**Mitä odotamme sinulta**
+
+- Data- ja AI-osaamista sekä vahvaa Python-osaamista.
+- Vahvaa SQL-osaamista ja valmiutta työskennellä Azure-ympäristössä.
+- Kykyä käsitellä dataa, arvioida analyysien ja mallien luotettavuutta sekä selittää tulosten merkitys liiketoiminnalle.
+- Oma-aloitteista työotetta: osaat jäsentää avoimen tehtävän, valita toteutustavan ja saada aikaan toimivan ratkaisun.
+- Valmiutta osallistua tarvittaessa sovelluskehitykseen TypeScript-, Node.js- ja React-ympäristössä muun tiimin tuella.
+
+Kokemus koneoppimisesta, aikasarjoista, energia-alasta tai AI-agenttien kehittämisestä on eduksi. Arvostamme erityisesti näyttöjä toteutetuista ratkaisuista.
+
+**Miksi tähän rooliin?**
+
+Saat vastuuta konkreettisista kehityskohteista ja mahdollisuuden vaikuttaa siihen, miten ne ratkaistaan. Työssä yhdistyvät tekoäly, liiketoiminnan ymmärtäminen ja ohjelmistokehitys. Rakentamiasi ratkaisuja hyödynnetään sekä asiakassovelluksessa että liiketoiminnan päätöksenteossa.
+
+**Palkka ja työskentely**
+
+Palkka on **4 000–5 000 €/kk** osaamisesi mukaan. Tehtävä on vakituinen ja täysipäiväinen, ja työ tehdään kokonaan etänä. Tapaamme toki säännöllisesti ja porukkamme henki on hyvä.
+
+**Hae mukaan**
+
+Lähetä hakemuksesi viimeistään 31.10.2026 LinkedInin kautta. Kerro lyhyesti, millaisia ratkaisuja olet rakentanut ja mistä olet itse vastannut. Voit liittää mukaan esimerkiksi GitHub-profiilin, projektiesimerkin tai muun työnäytteen.

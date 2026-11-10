@@ -1,0 +1,77 @@
+## About the job
+
+**Sinustako AI Lead Fintraffic-konserniin?**
+
+Fintraffic kehittää liikenteen tulevaisuutta datan, digitalisaation ja uuden teknologian avulla. Tekoälyn merkitys osana tätä kehitystä kasvaa nopeasti. Haemme nyt AI Leadia vauhdittamaan tekoälyn hyödyntämistä koko Fintraffic-konsernissa ja rakentamaan edellytyksiä vaikuttavalle, vastuulliselle ja skaalautuvalle tekoälyn käytölle.
+
+**Mitä tehtävä pitää sisällään?**
+
+AI Leadina toimit konsernin tekoälykehityksen yhdistävänä voimana. Tehtäväsi on auttaa muuttamaan tekoälyn mahdollisuudet konkreettisiksi hyödyiksi: tunnistaa ja edistää olennaisimpia käyttökohteita, tuoda yhteen liiketoiminnan ja teknologian osaajia sekä kehittää koko organisaation kyvykkyyttä hyödyntää tekoälyä.
+
+Roolisi rakentuu kolmen kokonaisuuden ympärille.
+
+**1. Koordinoit Fintrafficin tekoälykehitystä**
+
+Luot kokonaiskuvaa tekoälyn hyödyntämisestä ja kehityksestä eri puolilla konsernia sekä autat muodostamaan yhteistä suuntaa. Kehität Fintrafficin AI-maturiteettia systemaattisesti ja autat tunnistamaan, missä tekoälyllä voidaan saada aikaan suurinta vaikuttavuutta. Käytännössä tämä tarkoittaa esimerkiksi tekoälyideoiden ja käyttötapausten kokonaiskuvan ylläpitämistä, yhteisten tavoitteiden ja prioriteettien muodostamista, AI-maturiteetin arviointia ja kehittämistä sekä parhaiden käytäntöjen skaalaamista konsernin sisällä. Teet tiivistä yhteistyötä liiketoimintojen, teknologian, data- ja digikehityksen sekä muiden keskeisten sidosryhmien kanssa.
+
+**2. Fasilitoit nimettyjä keskeisiä AI-hankkeita**
+
+Autat viemään lupaavimmat tekoälyideat kokeiluista käytäntöön. Toimit valituissa erityisesti tietotyön kehittämiseen liittyvissä AI-hankkeissa fasilitaattorina ja sparraajana: kirkastat käyttötapauksia, kokoat oikeat ihmiset yhteen ja autat etenemään ideasta kokeiluun ja edelleen tuotantokäyttöön. Et välttämättä itse rakenna kaikkia ratkaisuja, mutta ymmärrät riittävästi tekoälyteknologioita, dataa ja modernia ohjelmistokehitystä pystyäksesi haastamaan, tukemaan ja yhdistämään asiantuntijoita. Pidät samalla huolen siitä, että ratkaisuissa huomioidaan tarkoituksenmukaisesti muun muassa tietoturva, tietosuoja, arkkitehtuuri, vastuullinen tekoäly ja regulaatio. Toimit tiiviissä yhteistyössä AI Governancesta vastaavien henkilöiden kanssa.
+
+**3. Rakennat Fintrafficin AI-yhteisöä ja osaamista**
+
+Keskeinen osa tehtävääsi on rakentaa aktiivista AI-yhteisöä ja vahvistaa tekoälyosaamista koko Fintrafficissa. Luot foorumeita kokemusten, ratkaisujen ja oppien jakamiseen, yhdistät eri puolilla organisaatiota työskenteleviä osaajia ja autat tekemään hyvistä käytännöistä yhteisiä. Edistät AI Literacyä ja käytännön osaamista esimerkiksi yhteisötoiminnan, koulutusten, demojen, työpajojen ja sisäisen viestinnän avulla.
+
+**Mitä odotamme sinulta?**
+
+Etsimme henkilöä, joka yhdistää strategisen näkemyksen käytännön tekemiseen. Sinun ei tarvitse olla organisaation paras koneoppimismallien rakentaja, mutta sinun pitää ymmärtää tekoälyä riittävän syvällisesti voidaksesi johtaa keskustelua sen mahdollisuuksista, rajoitteista ja käytännön toteutuksesta.
+
+Odotamme sinulta kokemusta tekoälyn, datan, digitaalisten palveluiden tai teknologian kehittämisestä sekä näyttöjä siitä, että olet saanut asioita etenemään yli organisaatio- ja tiimirajojen. Ymmärrät generatiivisen tekoälyn ja muun modernin AI:n mahdollisuuksia sekä niiden hyödyntämiseen liittyviä teknisiä, organisatorisia ja vastuullisuuskysymyksiä.
+
+Roolissa menestyminen edellyttää erityisesti kykyä:
+
+- muodostaa kokonaiskuvaa ja tehdä monimutkaisista asioista ymmärrettäviä
+- tunnistaa liiketoiminnan kannalta arvokkaita AI-käyttötapauksia
+- fasilitoida kehitystä ja saada erilaiset asiantuntijat työskentelemään yhteisen tavoitteen eteen
+- keskustella uskottavasti sekä teknisten asiantuntijoiden että liiketoimintajohdon edustajien kanssa
+- rakentaa verkostoja, yhteisöjä ja uudenlaista osaamista
+- viedä asioita käytännössä eteenpäin myös tilanteissa, joissa valmiita vastauksia ei vielä ole.
+
+Arvostamme kokemusta esimerkiksi AI-strategioista ja -roadmapeista, GenAI-ratkaisuista, AI Governance -malleista, AI Actin ja muun relevantin sääntelyn soveltamisesta, AI-kehityksen mittaamisesta sekä organisaation AI-maturiteetin kehittämisestä. Arvostamme lisäksi soveltuvaa korkeakoulututkintoa.
+
+**Mitä pääset rakentamaan?**
+
+Tässä tehtävässä pääset vaikuttamaan siihen, miten tekoälystä rakennetaan pysyvä osa Fintrafficin toimintaa ja kehittämistä. Rooli tarjoaa poikkeuksellisen näköalapaikan tekoälyn soveltamiseen ympäristössä, jossa data, digitaalinen infrastruktuuri ja yhteiskunnallisesti merkittävät palvelut kohtaavat.
+
+**Mitä tarjoamme sinulle?**
+
+**Tarjoamme**
+
+- Mielenkiintoisen ja vastuullisen tehtävän kehittyvällä toimialalla
+- Hyvän työyhteisön ja osaavan tiimin tuen
+- Joustavat työajat ja hybridityön, jossa voit työskennellä joustavasti toimistolla ja etänä
+- Erinomaiset kehittymismahdollisuudet
+
+Meillä on positiivinen ja uudistumiskykyinen työympäristö, jossa avoimuus ja hyvä johtajuus ovat päivittäisen toimintamme lähtökohtia. Fintrafficille on myönnetty Hyvän mielen työpaikka® -merkki tunnustuksena sitoutuneesta ja systemaattisesta työstä mielen hyvinvoinnin edistämiseen. Olemme myös mukana Perheystävällinen työpaikka -ohjelmassa. Ohjelman tavoitteena on edistää työn ja perheen, opiskelun, sekä muun elämän yhteensovittamisen hyviä käytäntöjä työpaikoilla.
+
+Tarjoamme hyvät mahdollisuudet osaamisen kehittämiseen (esim. koulutukset, verkko-oppimisympäristöt, mentorointiohjelma.) Saat myös monipuoliset henkilöstöedut (mm. tuki liikunta- ja kulttuuripalveluihin, työmatkaetu, lounasetu sekä kattavat työterveyshuollon palvelut). Tarjoamme sinulle mahdollisuuden työskennellä joustavasti yhtiömme kulloinkin voimassa olevan hybridityömallin mukaisesti.
+
+Olemme vahvasti sitoutuneita arvoihimme, jotka ohjaavat toimintaamme. Arvomme ovat *Turvaamme*, *Välitämme*, *Näytämme suuntaa* ja *Yhdessä*. Voit tutustua niihin tarkemmin alakulmasta löytyvän arvovideomme kautta.
+
+**Kiinnostuitko? Haluaisitko tietää lisää?**
+
+Kysymyksiä tehtävästä tai haluatko lisätietoja? Operatiivinen johtaja Riku Moisio vastaa 16.10.2026 klo 11.30-12.30 ja 23.10.2026 klo 10-11 numerosta 040 842 9506 sekä sähköpostitse riku.moisio@fintraffic.fi.
+
+**Hae meille!** Haethan tehtävää klikkaamalla “Hae tähän työpaikkaan”! Otamme hakemuksia vastaan vain rekrytointijärjestelmämme kautta. Kerrothan hakemuksessasi, miksi juuri sinä olisit tehtävään sopivin. Lähetä palkkatoiveella varustettu hakemuksesi ja CV meille “Hae tähän työpaikkaan”-linkin kautta 1.11.2026 mennessä. Käymme hakemuksia läpi jo hakuaikana.
+
+Osana rekrytointiprosessia saatamme hyödyntää soveltuvuusarviointia päätöksemme tueksi.
+
+Tehtävään valittavasta henkilöstä tehdään turvallisuusselvityslain (Turvallisuusselvityslaki 726/2014) mukainen perusmuotoinen henkilöturvallisuusselvitys sekä selvitys ulkomaansidonnaisuuksista. Turvallisuusselvitysmenettelystä ja selvityksen kohteen oikeuksista löytyy tarkempia tietoja osoitteessa http://www.supo.fi.
+
+Lue Fintrafficista lisää: www.fintraffic.fi
+
+Lataa itsellesi ilmainen Fintraffic Mobiili -sovellus, jossa liikenteenohjauksemme tuottama tieto sujuvoittaa matkaasi tien päällä ja raiteilla. Lue lisää: fintraffic.fi/mobiili
+
+Haku alkaa **8. lokakuuta 2026** ja päättyy **1. marraskuuta 2026, klo 23.59 (Europe/Helsinki)**
+
+**Työsuhteen tyyppi:** Vakituinen

@@ -1,5 +1,5 @@
 from models import JobAssessment
-from criteria import CAREER_CRITERIA
+from criteria_v2_1 import CAREER_CRITERIA, RUBRIC_VERSION
 from workflow import JobReview, get_effective_score
 
 def calculate_weighted_score(job_assessment: JobAssessment) -> float:

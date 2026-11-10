@@ -2,7 +2,7 @@ import json
 import sqlite3
 from workflow import JobReview, ReviewStatus
 from scoring import calculate_reviewed_score
-from criteria import CAREER_CRITERIA
+from criteria_v2_1 import CAREER_CRITERIA
 
 
 DATABASE_NAME = "job_tracker.db"

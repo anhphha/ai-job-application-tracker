@@ -1,0 +1,76 @@
+## About the job
+
+Haluatko olla rakentamassa tiedolla johtamisen ratkaisuja, joiden avulla Helsingin kaupungin digitaaliset palvelut kehittyvät entistä paremmiksi? Tässä roolissa yhdistät teknisen osaamisesi liiketoiminnan ymmärrykseen ja autat organisaatiota hyödyntämään dataa vaikuttavasti päätöksenteossa.
+
+Haemme DigiHelsinkiin **Senior Data- ja raportointiasiantuntijaa** vakituiseen tehtävään vahvistamaan data- ja analytiikkatiimiämme.
+
+Tehtävässä toimit asiantuntijana keskeisessä roolissa kehittämässä DigiHelsingin raportointi- ja analytiikkaratkaisujen suuntaa sekä tiedolla johtamisen käytäntöjä. Vastaat data- ja raportointiratkaisujen suunnittelusta, toteutuksesta, ylläpidosta ja jatkuvasta kehittämisestä. Työsi tuloksena syntyy luotettavaa, ajantasaista ja tarkoituksenmukaista tietoa päätöksenteon, palveluiden kehittämisen ja operatiivisen johtamisen tueksi. Esihenkilönäsi toimii Data- ja analytiikkapäällikkö.
+
+**Mitä pääset tekemään?**
+
+Senior Data- ja raportointiasiantuntijana toimit keskeisessä roolissa DigiHelsingin tiedolla johtamisen kyvykkyyksien kehittämisessä. Työssäsi yhdistyvät raportoinnin ja analytiikan tekninen toteutus, tietomallinnus, datan laadun kehittäminen sekä tiivis yhteistyö asiakkaiden ja sidosryhmien kanssa.
+
+*Pääset mm.:*
+
+- suunnittelemaan, toteuttamaan ja kehittämään Power BI -raportteja sekä muita raportointiratkaisuja
+- rakentamaan ja kehittämään semanttisia malleja, mittareita ja raportointirakenteita
+- osallistumaan datatuotteiden koko elinkaareen suunnittelusta jatkuvaan kehittämiseen
+- kehittämään raportointi- ja analytiikkaratkaisujen käytettävyyttä, suorituskykyä ja ylläpidettävyyttä
+- suunnittelemaan ja optimoimaan tietomalleja sekä varmistamaan datan laadun ja jäljitettävyyden
+- tuottamaan analyysejä johdon, asiantuntijoiden ja palveluiden kehittämisen tueksi
+- tunnistamaan datasta trendejä, poikkeamia ja kehityskohteita
+- osallistumaan KPI-mittareiden ja tiedolla johtamisen rakenteiden kehittämiseen
+- tukemaan käyttäjiä raporttien, analyysien ja datatuotteiden hyödyntämisessä
+- tekemään yhteistyötä DigiHelsingin palveluiden, Helsingin kaupungin toimialojen sekä muiden sidosryhmien kanssa
+- osallistumaan uusien data-, analytiikka-, automaatio- ja tekoälyratkaisujen arviointiin ja käyttöönottoon.
+
+Ensimmäisten kuukausien aikana olet saanut ymmärryksen DigiHelsingin datasta, järjestelmistä ja liiketoiminnan tarpeista. Olet vienyt ensimmäisiä integraatioita tuotantoon, rakentanut raportoinnin ja analytiikan perustaa sekä toteuttanut ensimmäisiä kehitystarpeita.
+
+Noin kolmen kuukauden kohdalla olet ottanut vastuuta yhden tai useamman tiedolla johtamisen kokonaisuuden kehittämisestä ja vienyt niitä määrätietoisesti eteenpäin. Olet ollut rakentamassa datatuotteita tiiviissä yhteistyössä liiketoiminnan, operatiivisen johdon ja johtoryhmän kanssa, ja työsi tulokset näkyvät jo käytännössä päätöksenteon tukena.
+
+Samalla olet edistänyt keskeisiä kehityshankkeita sekä auttanut jalostamaan dataa ymmärrettäväksi ja vaikuttavaksi tiedoksi. Työsi ansiosta DigiHelsingin palveluiden vaikutuksia ja onnistumisia voidaan tehdä entistä näkyvämmiksi niin organisaation sisällä kuin asiakkaillekin.
+
+**Menestyäksesi tehtävässä sinulla on:**
+
+- usean vuoden kokemus data- ja raportointiratkaisujen kehittämisestä
+- vahva käytännön kokemus Power BI -ympäristöstä
+- kokemusta tietomallinnuksesta, raportoinnista ja analytiikasta
+- kokemusta Power Query-, DAX- ja modernien data-alustojen hyödyntämisestä
+- kokemusta rajapinnoista, integraatioista ja erilaisista tietolähteistä
+- hyvä SQL-osaaminen sekä ymmärrys datan käsittelyn ja mallintamisen periaatteista
+- kokemusta mittareiden ja raportointiratkaisujen suunnittelusta liiketoiminnan tarpeisiin
+- kyky ymmärtää käyttäjien tarpeita ja muuttaa ne toimiviksi ratkaisuiksi. Olet työotteeltasi oma-aloitteinen, ratkaisukeskeinen ja yhteistyökykyinen.
+- sujuva suomen kielen taito sekä hyvä kirjallinen ja suullinen viestintäosaaminen.
+- ymmärrystä datanhallinnasta, tietosuojasta ja tietoturvasta
+- kiinnostusta tekoälyn ja automaation hyödyntämiseen data- ja analytiikkaratkaisuissa
+
+**Lisäksi arvostamme**
+
+- kokemusta tiedolla johtamisen kehittämisestä organisaatioympäristössä
+- kokemusta käyttäjäkoulutuksista ja käyttöönottojen tukemisesta
+
+**Mitä tarjoamme sinulle?**
+
+DigiHelsingillä pääset rakentamaan uudenlaista digitaalista kaupunkia yhdessä asiantuntevien kollegoiden kanssa. Tarjoamme mahdollisuuden vaikuttaa, kehittää toimintaa ja kasvattaa omaa osaamistasi jatkuvasti muuttuvassa toimintaympäristössä.
+
+Meitä yhdistää halu olla erinomaisia siinä, mitä teemme, ja kehittyä jatkuvasti paremmiksi. Uteliaisuus, uuden oppiminen ja oman osaamisen aktiivinen ylläpitäminen kuuluvat meillä ammattilaisuuteen. Arvostamme ihmisiä, jotka seuraavat oman alansa kehitystä, etsivät parempia tapoja tehdä asioita ja jakavat osaamistaan myös muille. Meillä saat vastuuta, pääset vaikuttamaan ja viemään asioita suunnitelmista käytäntöön.
+
+Meillä teet asiantuntijatyötä joustavassa hybridimallissa, jossa yhdistyvät sujuva yhteistyö toimistolla ja tehokas monipaikkainen työ. Toimistomme sijaitsee urbaanilla Konepajan alueella Vallilassa, erinomaisten kulkuyhteyksien varrella.
+
+Panostamme henkilöstömme hyvinvointiin, viihtymiseen ja yhteisöllisyyteen. Tarjoamme kattavan työterveyshuollon sekä monipuoliset henkilöstöedut, kuten Epassin kulttuuri-, liikunta- ja hyvinvointiedut sekä työmatka- ja lounasedun. Rakennamme yhteisöllistä kulttuuria yhteisten tapahtumien ja virkistyshetkien kautta.
+
+Palkitsemme henkilöstöämme kulloinkin voimassa olevan palkitsemismallin mukaisesti.
+
+**Monimuotoisuus ja yhdenvertaisuus**
+
+Arvostamme työyhteisössämme monimuotoisuutta ja yhdenvertaisuutta. Uskomme, että erilaiset kokemukset ja näkökulmat tukevat innovatiivisuutta, hyvinvointia ja tuloksellisuutta. Kannustamme henkilöitä erilaisista taustoista hakemaan meille töihin.
+
+**Lisätiedot ja hakeminen**
+
+Tule rakentamaan kanssamme Helsingin digitaalista tulevaisuutta.
+
+Lähetäthän hakemuksesi **1.11.2026** mennessä.
+
+**Lisätietoja tehtävästä** antaa Pyry Aurasmaa (puh. 050 467 1349) 23.10. klo 14–15 ja 30.10. klo 14–15 sekä MPS:n konsultti Jenni Vähä-Heikkilä (puh. 041 468 7535) 26.10. klo 14–15.
+
+**DigiHelsinki Oy** on vuonna 2023 perustettu Helsingin kaupungin strateginen kumppani. Tuotamme ja kehitämme kaupungille digitaalisia peruspalveluja, jotka mahdollistavat sujuvan arjen kaupungin työntekijöille ja kaupunkilaisille. Yhtiössämme työskentelee noin 180 henkilöä ja liikevaihtomme on noin 80 miljoonaa euroa. Palveluihimme kuuluvat muun muassa tietoliikenne- ja kyberturvapalvelut, pilvipalvelut, konesali- ja kapasiteettipalvelut, tuki- ja elinkaaripalvelut sekä asiakkaidemme digitaalisten palvelutarpeiden tunnistaminen ja kehittäminen.

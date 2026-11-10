@@ -1,0 +1,54 @@
+## About the job
+
+**Punainen Risti tuo iloa, ylläpitää toivoa ja vahvistaa luottamusta – tule joukkoomme tekemään merkityksellistä työtä!**Haemme Suomen Punaisen Ristin CRM-yksikköön Data Engineeriä tukemaan järjestön datakyvykkyyden rakentamista sekä kehittämään varainhankinnan data-analytiikkaa Microsoft Fabric -ympäristössä. Roolissa yhdistyvät tekninen toteutus ja yhteistyö eri toimintojen kanssa. Työsi ansiosta voimme tehdä vaikuttavampaa ja tehokkaampaa varainhankintaa sekä vahvistaa järjestön auttamiskykyä.Määräaikainen työsuhde alkaa viimeistään 1.1.2027 ja päättyy 31.12.2029.**Työtehtävät**Työtehtäviin kuuluu muun muassa
+
+- Dataputkien suunnittelu ja rakentaminen sekä datan tietoturvallinen tietovarastointi Microsoft Fabricissa
+- Tietomallien määrittely ja dokumentointi yhteistyössä eri toimintojen kanssa
+- Raportoinnin ja muiden datatuotteiden kehittäminen työparina BI-kehittäjän kanssa
+- Kampanjakohderyhmien muodostuksen ja muun toistuvan datatyön automatisointi
+- Osallistuminen järjestön yhteisten data- ja Fabric-toimintamallien rakentamiseen
+
+**Toivomme sinulta**
+
+Tehtävässä toivomme osaamista seuraavilla teknisillä osa-alueilla
+
+- SQL ja tietokantaratkaisut
+- ETL/ELT-prosessit ja tietovarastoinnin periaatteet
+- Tiedon mallintaminen ja ymmärrys Power BI -raportoinnista
+- Kokemusta Microsoft Azure / Microsoft Fabric -ympäristöistä
+- Kyky muuntaa toiminnan tarpeet ja haasteet tietomalleiksi ja teknisiksi ratkaisuiksi
+- Python tai muu automaatioon soveltuva kieli
+
+Eduksi katsomme kokemuksen ja kiinnostuksen seuraavista asioista
+
+- Tietosuoja, pseudonymisointi ja anonymisointi
+- CRM-järjestelmät ja asiakasdatan käsittely
+- Analytiikka-arkkitehtuurin suunnittelu
+- Databricks tai muut data-työkalut
+- Tekoälyn ja agenttipohjaisten ratkaisujen hyödyntämiseen data- ja analytiikkatyössä
+
+Tehtävässä onnistumista tukevat kokemus vastaavista tehtävistä, oma-aloitteinen työskentelyote sekä hyvät viestintä- ja vuorovaikutustaidot.
+
+Toimintaamme ohjaavat Punaisen Ristin periaatteet, joihin valittavan henkilön tulee sitoutua. Arvostamme työyhteisön moninaisuutta ja toivomme hakijoiksi eri-ikäisiä, eri sukupuolta olevia sekä kieli-, kulttuuri- tai muihin vähemmistöihin kuuluvia henkilöitä.
+
+**Tarjoamme sinulle**
+
+Pääset työskentelemään nykyaikaisten työkalujen ja teknologioiden parissa sekä osaksi teknisten ja analytiikan asiantuntijoiden yhteisöä, joten et ole kehitystyössä yksin. Työsi tukee merkityksellistä Suomen Punaisen Ristin auttamistyötä.
+
+Henkilöstökyselyidemme mukaan työntekijämme arvostavat erityisesti merkityksellistä ja innostavaa työtä sekä yhdenvertaista työyhteisöä, jossa tuemme toisiamme. Haluamme, että jokainen työntekijä kokee olevansa tervetullut ja arvostettu omana itsenään, olevansa osa työyhteisöä ja tulevansa kuulluksi. Pidämme henkilöstömme hyvinvoinnista ja jaksamisesta huolta mm. tukemalla lounasruokailua ja tarjoamalla liikunta- ja kulttuuriedun sekä työterveyshuollon palvelut.
+
+Työpaikka sijaitsee Helsingissä, osoitteessa Tehtaankatu 1, Helsinki. Tehtävässä on mahdollisuus työskennellä osittain myös etänä.
+
+**Kiinnostuitko?**
+
+Jos haluat liittyä osaksi avun ketjuamme ja mukavaa työyhteisöämme - toimi nyt! Lisätietoja tehtävästä saat CRM-päällikkö Marianna Prelleriltä sähköpostitse marianna.preller@redcross.fi tai 16.10. ja 23.10. klo 12-14 puhelimitse 040 653 1624.
+
+Lähetä sähköinen hakulomake viimeistään tiistaina 27.10.2026.
+
+Punainen Risti, keskustoimisto
+
+Suomen Punaisen Ristin tehtävä on auttaa kaikkein eniten apua tarvitsevia kotimaassa ja ulkomailla. Autamme katastrofien ja onnettomuuksien sattuessa nopeasti ja tehokkaasti. Koulutamme kriisialueilla asuvia varautumaan katastrofeihin. Kannustamme ihmisiä hoitamaan terveyttään ja pitämään huolta toisistaan.
+
+Punaisessa Ristissä työskentelee useiden toimialojen asiantuntijoita ja ammattilaisia ympäri Suomea ja maailmaa. Henkilöstömme arvostaa erityisesti merkityksellistä ja innostavaa työtä sekä yhdenvertaista työyhteisöä, jossa tuemme kaikki toisiamme.
+
+Puhelin: 020 701 2000 Sijainti: Tehtaankatu 1 a

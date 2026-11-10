@@ -40,9 +40,25 @@ env/
 
 # macOS
 .DS_Store
+__MACOSX/
 
 # Logs
 *.log
 
 # Streamlit secrets
 .streamlit/secrets.toml
+
+# Generated regression outputs
+evaluation/results/*.json
+!evaluation/results/.gitkeep
+
+evaluation/error_analysis/output/
+evaluation/error_analysis/v1_1
+evaluation/archive
+evaluation/*.json
+
+assessor_1_2.py
+assessor_v1_0.py
+criteria.py
+prompts/assessment_1_1.txt
+evaluation/regression_cases.json

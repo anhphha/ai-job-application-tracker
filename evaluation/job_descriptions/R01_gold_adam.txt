@@ -1,0 +1,49 @@
+At Kultakiertue / Gold Adam, we are a market leader and pioneer in purchasing and evaluating precious metals. We operate across the Nordics, Europe and the USA, and continue to expand into new markets. More than 180 professionals work within our service concept, and we’re looking for people who want to help shape our next stage of growth.
+
+Do you automate workflows before anyone asks you to? Is an AI coding agent already part of your everyday toolkit, connected to the tools and systems you use? Do you understand databases, from tables and joins to transactions, and why you check the affected rows before committing a change?
+
+We’re looking for a Data & AI Automation Specialist to work alongside our CTO and develop the AI agents and automation workflows that support our daily operations. These agents read production data, propose changes, communicate with the people affected and operate within clearly defined rules. You’ll help run and improve these workflows, then bring the same approach to other parts of the business.
+
+**About the role**
+
+You’ll work across business operations, support, IT and development. You’ll spend time with teams to understand their work, identify repetitive tasks and build practical solutions together with our developers and data specialists. We don’t expect you to have experience in every area. Being strong in one or two, with curiosity about the others, is a good starting point.
+
+We’re open to different levels of experience. What matters is that you already use AI tools extensively, understand data and databases, and work carefully with systems that people depend on.
+
+If you’re early in your career, you would start in route planning, where you could develop your skills and build a longer-term role. If you’re more experienced, you would join a small task force with the CTO, moving between areas such as routes, payments, controlling, bookings, compliance reporting and country launches to automate the most time-consuming manual work.
+
+**What you bring**
+
+You use AI tools daily. Cursor, Claude Code or similar tools are already part of how you work. You’ve created rules, skills or prompts that make agents more reliable, and connected them to tools through MCP servers or APIs. You understand when to use different models and when a workflow needs additional checks or human approval.
+
+You understand databases. You’re comfortable with SQL, joins and aggregates, and know how transactions and rollbacks work. You can explore an unfamiliar database with dozens of tables, understand its structure and find the information you need.
+
+You have enough JavaScript, TypeScript or Python knowledge to connect APIs, write small scripts and critically review code produced by AI.
+
+You care about practical results. A successful workflow means that an agent can do their job or a customer gets paid on time. You take responsibility for the outcome and follow through when something needs fixing.
+
+You handle production systems and personal data carefully. You test changes, check their impact and ask for approval before making changes that require it.
+
+You communicate clearly and enjoy working with people. Helping teams change how they work takes patience, curiosity and tact. You’ll report directly to the CTO and have his support while working with teams across the company.
+
+You work fluently in English. Finnish or another European language is an advantage.
+
+For more experienced candidates, we also look for evidence that you’ve improved workflows across different business functions and can introduce automation without disrupting the work people rely on.
+
+A degree, a particular job title or a set number of years of experience is not required. Show us an agent or automation you’ve built that other people depend on, and explain how you made it reliable.
+
+**What we offer**
+
+You’ll join a small, agile team where improvements can reach production within the same week. You’ll work with real operational data across seven countries and have the opportunity to make a direct impact on how the business operates.
+
+We provide the AI models and tools you need, with room to experiment and develop effective solutions. You’ll work closely with the CTO towards a shared goal: building agent-driven operations across the company, one function at a time.
+
+This is a hybrid role, with attendance at our Käpylä office in Helsinki required at least a few days a week.
+
+We offer a competitive salary, a company bonus scheme and opportunities to grow. This role will help establish our AI operations function, with scope to take on leadership responsibility as it develops.
+
+**Salary**
+
+The salary range is 4000–6500 € per month, depending on your skills and experience. The range is deliberately broad because we will shape the role around the person we hire.
+
+Send us your application and tell us about something you’ve automated with AI. We review applications on an ongoing basis, so we encourage you to apply as soon as possible.

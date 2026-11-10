@@ -1,5 +1,5 @@
 # AI-Assisted Job Application Tracker
-**Current release:** `v0.1.0` — Working MVP
+**Current release:** `v1.0.0` — Portfolio release candidate (pending final verification)
 
 **Core design principle:**
 
@@ -297,8 +297,8 @@ Local databases, API credentials, Python cache files, and personal job-search da
 ### 1. Clone the repository
 
 ```bash
-git clone <repository-url>
-cd ai-job-tracker
+git clone https://github.com/anhphha/ai-job-application-tracker.git
+cd ai-job-application-tracker
 ```
 
 ### 2. Create a virtual environment
@@ -347,7 +347,7 @@ streamlit run app.py
 Run the test suite with:
 
 ```bash
-pytest -v
+python -m pytest -q
 ```
 
 The current MVP includes tests covering the major extraction, assessment, workflow, persistence, and pipeline components.
@@ -360,7 +360,7 @@ This project is currently a working MVP demonstrating production-minded AI desig
 
 Known limitations include:
 
-- the evaluation rubric is still being calibrated;
+- the rubric is frozen at 2.1 for this portfolio release;
 - the evaluation dataset is currently limited;
 - LLM outputs can vary between runs;
 - human review remains necessary for ambiguous judgments;
@@ -391,3 +391,41 @@ The goal is to make AI assistance **useful, controlled, explainable, and reliabl
 **v0.1.0 — Working MVP**
 
 The first release establishes the end-to-end workflow from job-description extraction through AI assessment, deterministic scoring, human review, approved persistence, and evaluation monitoring.
+
+## Evaluation and Limitations
+
+The AI Job Application Tracker was evaluated using a frozen calibration dataset containing 10 job descriptions and 70 human-reviewed criterion scores.
+
+The assessment framework uses seven weighted career criteria, Rubric 2.1 (Strict Hybrid), and a versioned AI assessment prompt.
+
+### Evaluation Results
+
+| Prompt Version | Agreements | Agreement Rate |
+|---|---:|---:|
+| 1.0 | 188/210 | 89.52% |
+| 1.1 | 193/210 | 91.90% |
+| 1.2 Candidate | 194/210 | 92.38% |
+
+Each prompt was evaluated across three repeated runs using GPT-5.6. The 210 evaluations represent repeated assessments of the same 70 human-reviewed reference scores, not 210 independent examples.
+
+### Known Limitations
+
+- The calibration dataset is small and was used during prompt development.
+- Agreement on this dataset does not establish generalization to unseen job descriptions.
+- Some rubric boundaries remain open to interpretation, particularly Data Relevance and Leadership Potential.
+- Model outputs may vary between repeated runs.
+- Human review remains necessary for ambiguous assessments and final career decisions.
+
+### Design Decision
+
+Further prompt optimization was intentionally stopped after Prompt 1.2. The project prioritizes reproducibility, transparent evaluation, traceable limitations, and human oversight over maximizing agreement on a small calibration dataset.
+
+The system is intended as a personal decision-support and portfolio demonstration tool, not an autonomous hiring or career-decision system.
+
+## Release Verification
+
+Use Python 3.11 or 3.12. Create a fresh virtual environment, install requirements, and run `python -m pytest -q` for offline tests. `tests/test_assessor.py` and `tests/test_extraction.py` are legacy live-API demonstration scripts and intentionally excluded from automatic pytest collection to avoid unexpected API costs. They can be run explicitly with a configured API key. Some other test modules import the OpenAI SDK at collection time, so install dependencies before running pytest.
+
+Run `python -m compileall -q .` to check Python syntax, then `streamlit run app.py` to smoke-test the UI. With a valid OpenAI API key, analyze a sample job description, inspect the seven scores, override a score, approve, save, and reopen the saved result. These live checks are not automated by the offline test suite.
+
+**Version policy:** Portfolio app v1.0.0 uses Rubric 2.1 and assessment prompt `1.2-candidate` (the experimental prompt identifier is preserved for traceability). The 92.38% agreement is calibration-set agreement, not independent generalization accuracy. Older saved assessments must retain their original rubric version and should not be relabeled.

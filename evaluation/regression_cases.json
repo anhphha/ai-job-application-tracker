@@ -1,0 +1,437 @@
+{
+  "dataset_version": "1.2",
+  "description": "Frozen 70/70 user-approved reference scores, Rubric 2.1 Strict Hybrid.",
+  "rubric_version": "2.1",
+  "cases": [
+    {
+      "case_id": "R01",
+      "company": "Kultakiertue / Gold Adam",
+      "role": "Data & AI Automation Specialist",
+      "job_description_file": "job_descriptions/R01_gold_adam.txt",
+      "reviewed_reference": {
+        "transformation": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Building AI-agent workflows across operations and extending them to other functions is central, satisfying material process transformation."
+        },
+        "business_ownership": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Operational workflow ownership is explicit, but accountability for business outcome/priority or end-to-end business workstream is not."
+        },
+        "stakeholder_exposure": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Working alongside and reporting directly to the CTO is an ongoing role-inherent senior partnership; score 2 does not require a separately stated meeting frequency."
+        },
+        "data_relevance": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Approved by user in chat: Strict Hybrid Data Relevance proposal. See Step14C_Data_Relevance_10_Proposals.zip for case-specific rationale."
+        },
+        "decision_influence": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Identifies repetitive tasks and proposes workflow improvements, while changes requiring approval remain subject to others; no explicit material priority-setting authority."
+        },
+        "change_adoption": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "JD explicitly requires helping teams change how they work and introducing automation without disruption; does not assign enterprise adoption ownership."
+        },
+        "leadership_potential": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "JD explicitly mentions scope to take on leadership as the AI operations function develops; leadership is potential, not current assigned responsibility."
+        }
+      }
+    },
+    {
+      "case_id": "R02",
+      "company": "Nortal",
+      "role": "Data & AI Engineer",
+      "job_description_file": "job_descriptions/R02_nortal.txt",
+      "reviewed_reference": {
+        "transformation": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Enterprise Data/AI programme and pipeline migration are explicit, but role is principally hands-on delivery of prioritized use cases, not accountable for material process/operating-model transformation. Score 1 is more conservative."
+        },
+        "business_ownership": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Owns design and hands-on delivery of business use cases, but not explicit accountability for business priorities or measurable outcomes."
+        },
+        "stakeholder_exposure": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Works closely with business stakeholders and technical experts; no sustained senior executive collaboration stated."
+        },
+        "data_relevance": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Approved by user in chat: Strict Hybrid Data Relevance proposal. See Step14C_Data_Relevance_10_Proposals.zip for case-specific rationale."
+        },
+        "decision_influence": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Scopes use cases and makes implementation design choices, without explicit material influence on strategic business choices."
+        },
+        "change_adoption": {
+          "score": 0,
+          "status": "reviewed",
+          "rationale": "JD assigns productionising pipelines and AI use cases, not training, user rollout or behavioral adoption."
+        },
+        "leadership_potential": {
+          "score": 0,
+          "status": "reviewed",
+          "rationale": "Autonomous end-to-end use-case delivery and generic mentorship do not establish leading projects, teams, workstreams or vendors."
+        }
+      }
+    },
+    {
+      "case_id": "R03",
+      "company": "Suomen Punainen Risti",
+      "role": "Data Engineer (Microsoft Fabric)",
+      "job_description_file": "job_descriptions/R03_red_cross.txt",
+      "reviewed_reference": {
+        "transformation": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Building organizational data capabilities and common Fabric operating practices is a defined improvement initiative; the role participates and implements components rather than owning a central transformation."
+        },
+        "business_ownership": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Contributes to organizational data capability and business needs through technical solutions; no explicit business-outcome accountability."
+        },
+        "stakeholder_exposure": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Data modelling across functions and translating operational needs require cross-functional contact; no senior leadership mandate."
+        },
+        "data_relevance": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Approved by user in chat: Strict Hybrid Data Relevance proposal. See Step14C_Data_Relevance_10_Proposals.zip for case-specific rationale."
+        },
+        "decision_influence": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Helps translate business needs into data products and reporting, supporting choices without significant decision-shaping authority."
+        },
+        "change_adoption": {
+          "score": 0,
+          "status": "reviewed",
+          "rationale": "Automation and participation in common data practices do not explicitly assign rollout, user enablement, training, or responsibility for changing users’ behavior."
+        },
+        "leadership_potential": {
+          "score": 0,
+          "status": "reviewed",
+          "rationale": "Role participates in shared data operating models and pairs with BI developer; no explicit project/team/workstream leadership path."
+        }
+      }
+    },
+    {
+      "case_id": "R04",
+      "company": "Digia",
+      "role": "Business Analyst, AI & Automation",
+      "job_description_file": "job_descriptions/R04_digia.txt",
+      "reviewed_reference": {
+        "transformation": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Central BA discovery and requirements for automation, but no explicit ownership of delivering a material transformation."
+        },
+        "business_ownership": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Owns clarifying customer problems and expected benefits before technical implementation, but not the resulting business outcome."
+        },
+        "stakeholder_exposure": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Client-facing process discovery and stakeholder workshops establish business contact, not sustained executive-level exposure."
+        },
+        "data_relevance": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Approved by user in chat: Strict Hybrid Data Relevance proposal. See Step14C_Data_Relevance_10_Proposals.zip for case-specific rationale."
+        },
+        "decision_influence": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Business-analysis workshops and solution scoping are explicit; material influence on business prioritization or strategic choices is not established."
+        },
+        "change_adoption": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Explicitly supports clients in solution rollout and carrying through change; support qualifies for 1."
+        },
+        "leadership_potential": {
+          "score": 0,
+          "status": "reviewed",
+          "rationale": "JD requests experience coordinating projects and facilitating workshops but does not explicitly assign leadership of projects, workstreams, vendors or people, nor a credible future path."
+        }
+      }
+    },
+    {
+      "case_id": "R05",
+      "company": "Vihreä Älyenergia",
+      "role": "AI Developer & Data Analyst",
+      "job_description_file": "job_descriptions/R05_vihrea_alyenergia.txt",
+      "reviewed_reference": {
+        "transformation": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Automation of repetitive tasks and improvement of tools are explicit process improvements, but significant modernization/change mandate is not central or specified at organizational level."
+        },
+        "business_ownership": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Responsible for concrete AI/data solutions and how they are implemented; no explicit ownership of business KPIs or business workstream."
+        },
+        "stakeholder_exposure": {
+          "score": 0,
+          "status": "reviewed",
+          "rationale": "Explaining results to the business does not explicitly establish cross-functional engagement with business stakeholders."
+        },
+        "data_relevance": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Approved by user in chat: Strict Hybrid Data Relevance proposal. See Step14C_Data_Relevance_10_Proposals.zip for case-specific rationale."
+        },
+        "decision_influence": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Produces insights used in business decisions and influences solution approach, but no material strategic/prioritization responsibility."
+        },
+        "change_adoption": {
+          "score": 0,
+          "status": "reviewed",
+          "rationale": "Deploys AI solutions and automates workflows, but no explicit user enablement or organizational adoption responsibility."
+        },
+        "leadership_potential": {
+          "score": 0,
+          "status": "reviewed",
+          "rationale": "Autonomous delivery and responsibility for development tasks are not explicit team/project/workstream leadership."
+        }
+      }
+    },
+    {
+      "case_id": "R06",
+      "company": "Tribedo",
+      "role": "Senior Data Engineer",
+      "job_description_file": "job_descriptions/R06_original.txt",
+      "reviewed_reference": {
+        "transformation": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Azure migration and data-environment modernization are central, material capability changes."
+        },
+        "business_ownership": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Accountable for scalable pipelines and data products, not business outcomes or end-to-end business workstreams."
+        },
+        "stakeholder_exposure": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Explicit close collaboration with business, analysts and technical specialists; no recurring senior management engagement."
+        },
+        "data_relevance": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Approved by user in chat: Strict Hybrid Data Relevance proposal. See Step14C_Data_Relevance_10_Proposals.zip for case-specific rationale."
+        },
+        "decision_influence": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Can influence technical solutions and data-development practices, but no explicit material business decision authority or advisory mandate."
+        },
+        "change_adoption": {
+          "score": 0,
+          "status": "reviewed",
+          "rationale": "Azure migration and data-platform modernization are technical delivery; no stated training, rollout or user adoption responsibility."
+        },
+        "leadership_potential": {
+          "score": 0,
+          "status": "reviewed",
+          "rationale": "Senior expertise and independent work do not explicitly assign leading colleagues, vendors or a workstream."
+        }
+      }
+    },
+    {
+      "case_id": "R07",
+      "company": "DigiHelsinki",
+      "role": "Senior Data- ja raportointiasiantuntija",
+      "job_description_file": "job_descriptions/R07_original.txt",
+      "reviewed_reference": {
+        "transformation": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Developing the direction of reporting/analytics and data-driven management practices is central, with concrete organizational capability changes."
+        },
+        "business_ownership": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Owns data-driven management development and analytics solutions, but not business outcome/workstream accountability."
+        },
+        "stakeholder_exposure": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "JD specifies close collaboration with operational management and management team as a role milestone."
+        },
+        "data_relevance": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Approved by user in chat: Strict Hybrid Data Relevance proposal. See Step14C_Data_Relevance_10_Proposals.zip for case-specific rationale."
+        },
+        "decision_influence": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Develops management analyses and KPIs to support decisions; explicit material shaping of business choices is not established."
+        },
+        "change_adoption": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Explicitly supports users of reports/data products and participates in adoption of new data/AI solutions, without ownership of measurable adoption."
+        },
+        "leadership_potential": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Explicit responsibility for developing and advancing one or more data-driven management domains is a credible workstream-leadership path, even without people-management authority; score 2 would overstate leadership."
+        }
+      }
+    },
+    {
+      "case_id": "R08",
+      "company": "Fintraffic",
+      "role": "AI Lead",
+      "job_description_file": "job_descriptions/R08_original.txt",
+      "reviewed_reference": {
+        "transformation": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Organization-wide AI capability and shared practices are the core role, rather than isolated deployment."
+        },
+        "business_ownership": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Forms shared AI priorities and coordinates/facilitates initiatives; language emphasizes helping, coordinating and facilitating rather than being accountable for business outcomes or end-to-end business workstream."
+        },
+        "stakeholder_exposure": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Communication with business leadership representatives is explicit, but sustained or role-inherent senior decision-maker partnership is not established beyond this competency statement."
+        },
+        "data_relevance": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Approved by user in chat: Strict Hybrid Data Relevance proposal. See Step14C_Data_Relevance_10_Proposals.zip for case-specific rationale."
+        },
+        "decision_influence": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Helps shape group AI direction and prioritize high-value use cases, providing material influence without requiring final sign-off."
+        },
+        "change_adoption": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Explicitly builds AI community and literacy across the organization and moves AI initiatives into practice; significant organization-level adoption responsibility."
+        },
+        "leadership_potential": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Explicit cross-functional coordination of group AI development, named initiatives and AI community; functional leadership, not line management."
+        }
+      }
+    },
+    {
+      "case_id": "R09",
+      "company": "Yle",
+      "role": "Päällikkö, Strategia, analytiikka ja operatiivinen seuranta",
+      "job_description_file": "job_descriptions/R09_original.txt",
+      "reviewed_reference": {
+        "transformation": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Coordinates strategic change programs, renews core processes using AI/data and is expected to have led transformation."
+        },
+        "business_ownership": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Owns strategy process, performance monitoring and PMO operating model, explicit strategic business workstreams."
+        },
+        "stakeholder_exposure": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Role-inherent close collaboration with management team, and regular board-facing strategy reporting."
+        },
+        "data_relevance": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Approved by user in chat: Strict Hybrid Data Relevance proposal. See Step14C_Data_Relevance_10_Proposals.zip for case-specific rationale."
+        },
+        "decision_influence": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Sparring partner to executives, systematically informs strategic performance and corrective business decisions."
+        },
+        "change_adoption": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Responsible for moving strategy into everyday work and coordinating strategic change programs; substantial organizational implementation."
+        },
+        "leadership_potential": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Explicitly leads a department/team and strategic process; meaningful leadership is an assigned responsibility."
+        }
+      }
+    },
+    {
+      "case_id": "R10",
+      "company": "Strategy& / PwC",
+      "role": "Transformations & Deals, Manager / Senior Manager",
+      "job_description_file": "job_descriptions/R10_original.txt",
+      "reviewed_reference": {
+        "transformation": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Planning and managing transformative client projects with tangible results is a central responsibility."
+        },
+        "business_ownership": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Explicitly plans, sets up and manages transformative client projects delivering tangible business results; this meets business-workstream ownership without requiring client P&L ownership."
+        },
+        "stakeholder_exposure": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Works with clients daily and senior consulting team; JD does not clearly establish sustained access to client executives or steering committees."
+        },
+        "data_relevance": {
+          "score": 0,
+          "status": "reviewed",
+          "rationale": "Approved by user in chat: Strict Hybrid Data Relevance proposal. See Step14C_Data_Relevance_10_Proposals.zip for case-specific rationale."
+        },
+        "decision_influence": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Explicit advisory work on alternative courses of action in complex deals and transformations supports material influence; final approval is not necessary."
+        },
+        "change_adoption": {
+          "score": 1,
+          "status": "reviewed",
+          "rationale": "Delivery of change programs, operating model redesign and integration planning indicate contribution to organizational implementation, not adoption ownership."
+        },
+        "leadership_potential": {
+          "score": 2,
+          "status": "reviewed",
+          "rationale": "Explicitly leads teams and manages transformative projects; meaningful leadership is part of the role."
+        }
+      }
+    }
+  ]
+}

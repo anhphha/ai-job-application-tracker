@@ -7,10 +7,10 @@ from extractor import extract_job, EXTRACTION_PROMPT_VERSION, MODEL_NAME as EXTR
 from assessor import assess_job, ASSESSMENT_PROMPT_VERSION, MODEL_NAME as ASSESSMENT_MODEL
 from scoring import calculate_weighted_score, calculate_reviewed_score, find_low_confidence_items
 from workflow import JobReview, ReviewStatus, add_override, revert_override, approve_review, reject_review, get_effective_score, get_human_overrides
-from criteria import CAREER_CRITERIA, RUBRIC_VERSION
+from criteria_v2_1 import CAREER_CRITERIA, RUBRIC_VERSION
 from models import AIRunMetadata
 
-APP_VERSION = "0.1.0"
+APP_VERSION = "1.0.0"
 
 initialize_database()
 
@@ -102,7 +102,7 @@ if page == "Analyze Job":
                     run_type="extraction",
                     model_name=EXTRACTION_MODEL,
                     prompt_version=EXTRACTION_PROMPT_VERSION,
-                    rubric_version=None,
+                    rubric_version=RUBRIC_VERSION,
                     status="success",
                     latency_seconds=extraction_latency,
                 ),

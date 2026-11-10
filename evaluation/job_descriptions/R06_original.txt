@@ -1,0 +1,62 @@
+## About the job
+
+Tribedo etsii asiakkaansa Data CoE -yksikköön kokenutta Senior Data Engineeriä kehittämään ja modernisoimaan asiakasdatan datatuotteita sekä rakentamaan tulevaisuuden data-alustaa. Tässä roolissa pääset työskentelemään liiketoiminnalle kriittisen datan parissa osana asiantuntevaa tiimiä, joka tukee asiakasanalytiikkaa, asiakasymmärrystä, kohdennettua markkinointia ja datalähtöistä päätöksentekoa.
+
+**Tehtävän sisältö**
+
+Senior Data Engineerina osallistut uusien datatuotteiden, dataputkien ja integraatioratkaisujen suunnitteluun, kehittämiseen sekä ylläpitoon. Olet keskeisessä roolissa asiakkaan Azure-siirtymässä ja dataympäristön modernisoinnissa hyödyntäen moderneja data-alustoja ja kehitystyökaluja.
+
+Vastaat skaalautuvien dataputkien toteutuksesta, datalähteiden muutoksista sekä datatuotteiden jatkuvasta kehittämisestä. Työskentelet tiiviissä yhteistyössä liiketoiminnan, analyytikoiden, data scientistien, muiden data engineerien sekä eri teknologia-alueiden asiantuntijoiden kanssa varmistaaksesi, että ratkaisut vastaavat liiketoiminnan tarpeita ja tukevat tulevaisuuden tavoitteita.
+
+Tiimissä työskennellään ketterin menetelmin, ja pääset vaikuttamaan sekä teknisiin ratkaisuihin että datakehityksen toimintatapojen jatkuvaan kehittämiseen. Arvostamme oma-aloitteisuutta, ratkaisukeskeisyyttä sekä kykyä hahmottaa laajoja kokonaisuuksia.
+
+**Mitä odotamme sinulta?**
+
+Sinulla on vahva kokemus Data Engineering -tehtävistä sekä datatuotteiden ja dataputkien kehittämisestä modernissa ympäristössä. Kykenet työskentelemään itsenäisesti, mutta nautit myös yhteistyöstä eri sidosryhmien kanssa.
+
+**Toivomme, että sinulla on kokemusta seuraavista osa-alueista:**
+
+- Data Engineering ja datatuotteiden kehittäminen
+- Python-, PySpark- ja SQL-ohjelmointi
+- Databricks ja modernit data-alustat
+- Tietovarastot, Data Lake -ratkaisut sekä ETL/ELT-prosessit
+- Integraatiot ja datan käsittelyn arkkitehtuurit
+- Liiketoiminnan vaatimusten analysointi ja teknisten ratkaisujen toteuttaminen
+- Sujuva työskentely suomeksi ja englanniksi
+- AI-avusteinen ohjelmistokehitys ja modernien kehitystyökalujen hyödyntäminen
+
+**Eduksi katsomme**
+
+- Kokemuksen Azure-data-alustoista ja pilvisiirtymähankkeista
+- Kokemuksen CI/CD-, Data Quality- ja observability-ratkaisuista
+- Ymmärryksen API-rajapinnoista ja tapahtumapohjaisista integraatioista
+- Kokemuksen datatuotteiden modernisoinneista tai lähdejärjestelmien korvaamisesta
+- Kokemuksen finanssialalta tai muulta vahvasti reguloidulta toimialalta
+- Kokemuksen asiakasdatan parissa työskentelystä
+
+Olet työskentelytavaltasi analyyttinen, yhteistyökykyinen ja vastuullinen. Osaat kommunikoida selkeästi eri sidosryhmien kanssa ja viet tehtävät määrätietoisesti maaliin asti. Haluat jatkuvasti kehittää sekä omaa osaamistasi että ympärilläsi olevia toimintatapoja.
+
+**Mitä tarjoamme?**
+
+Tehtävä sijoittuu Helsinkiin. Työssä noudatetaan hybridityömallia, jossa työskentelyä asiakkaan toimistolla edellytetään vähintään noin 2-3 päivänä viikossa.
+
+Pääset mukaan kehittämään liiketoiminnan kannalta keskeisiä dataratkaisuja sekä rakentamaan modernia data-alustaa osana osaavaa ja kokenutta asiantuntijayhteisöä. Tarjoamme mahdollisuuden hyödyntää uusimpia teknologioita sekä vaikuttaa merkittävästi datan hyödyntämiseen suuressa organisaatiossa.
+
+Työsuhde on kokoaikainen ja määräaikainen, ja työsuhde solmitaan Tribedon kanssa.
+
+**Tehtävän tiedot**
+
+- Aloitus: 1.1.2027
+- Kesto: 31.12.2027 asti
+- Sijainti: Helsinki
+- Kielitaito: suomi ja englanti
+- Työskentelymuoto: hybridi (vähintään 50 % ajasta toimistolla)
+- Turvallisuusselvitys vaaditaan
+
+**Kiinnostuitko?**
+
+Jätä hakemuksesi mahdollisimman pian, kuitenkin viimeistään 14.11. Huomaathan, että hakemuksia ei vastaanoteta sähköpostitse.
+
+**Tribedo**
+
+Tribedo on OP Pohjolan ja Bravedon yhteisomistusyritys. Osana Bravedo-yritysyhteisöä Tribedo tarjoaa ensiluokkaista IT-osaamista tukemaan asiakkaita heidän liiketoimintansa kehittämisessä. Tribedo tuo yhteen oikeat osaajat ja oikeat tehtävät. Tribedon palveluita täydentävät Bravedo-yhteisön yritykset, jotka tarjoavat Tribedolle palveluita muun muassa resursoinnin, teknologian, työkyky- ja koulutuspalveluiden, muutosvalmennuksen sekä datalla johtamisen alueilla.
